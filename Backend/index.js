@@ -1,4 +1,4 @@
-let MONGO_URL = "mongodb+srv://jatinvir:Jatinvir@123@cluster0.kwmfv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+let MONGO_URL = ""
 var express = require('express')
 var cors = require('cors')
 var mongoose = require('mongoose')
