@@ -1,4 +1,4 @@
-let MONGO_URL = ""
+let MONGO_URL = process.env.MONGO_LINK
 var express = require('express')
 var cors = require('cors')
 var mongoose = require('mongoose')
